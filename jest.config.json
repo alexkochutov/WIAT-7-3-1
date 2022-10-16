@@ -5,8 +5,10 @@
     "!**/coverage/**"
   ],
   "coverageThreshold": {
-    "branches": 100,
-    "functions": 100,
-    "lines": 100
+    "app.js": {
+      "branches": 100,
+      "functions": 100,
+      "lines": 100
+    }
   }
 }
