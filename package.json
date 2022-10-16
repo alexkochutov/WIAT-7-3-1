@@ -4,7 +4,8 @@
   "description": "WIAT 7-3-1 Homework - Jest",
   "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "coverage": "jest --collectCoverage"
   },
   "repository": {
     "type": "git",
